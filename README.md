@@ -1,4 +1,4 @@
-GROUP 14 MODERN VENUS STYLE TRANSFER.
+GROUP 14 THE MODERN VENUS STYLE TRANSFER PROJECT.
 
 This project is an exploration of new and old, the combination and juxtraposition of what was considered beautiful then and now.
 
